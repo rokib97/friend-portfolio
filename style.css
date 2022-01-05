@@ -115,3 +115,11 @@ section {
 #stay-connect {
   color: grey;
 }
+.icon {
+  display: flex;
+  margin-left: 45%;
+}
+.icon img {
+  width: 40px;
+  margin-left: 10px;
+}
